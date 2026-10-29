@@ -1,5 +1,5 @@
 # 🏛️ GUÍA OFICIAL PARA DEPÓSITO Y OBTENCIÓN DE DOI EN ZENODO
-## Repositorio: `gnn-pharmacology-v1-becaria` (FaCENA - UNNE)
+## Repositorio: `gnn_pharmacology_facena_suite_v1` (FaCENA - UNNE)
 
 > **Propósito:** Asignar un identificador de objeto digital persistente (**DOI**) a través de **Zenodo (CERN / OpenAIRE)** para convalidar la producción de software científico y datos del plan de beca en el sistema **SIGEVA (CONICET / UNNE)** y en informes de la **SeGCyT-UNNE (Proyecto PI 21F012)**.
 
@@ -23,12 +23,12 @@ Este método archiva el repositorio automáticamente en los servidores seguros d
 
 ### Paso 2: Activar el repositorio en Zenodo
 1. Ir al menú superior derecho (avatar de usuario) $\to$ **GitHub** (o acceder a [https://zenodo.org/account/settings/github/](https://zenodo.org/account/settings/github/)).
-2. Buscar en la lista el repositorio `iasaludlemyp/gnn-pharmacology-v1-becaria`.
+2. Buscar en la lista el repositorio `iasaludlemyp/gnn_pharmacology_facena_suite_v1`.
 3. Cambiar el interruptor de **OFF** a **ON** (se pondrá verde).
 
 ### Paso 3: Publicar el Release
 1. Ir a la pestaña **Releases** de tu repositorio en GitHub:  
-   [https://github.com/iasaludlemyp/gnn-pharmacology-v1-becaria/releases](https://github.com/iasaludlemyp/gnn-pharmacology-v1-becaria/releases)
+   [https://github.com/iasaludlemyp/gnn_pharmacology_facena_suite_v1/releases](https://github.com/iasaludlemyp/gnn_pharmacology_facena_suite_v1/releases)
 2. En unos segundos, Zenodo detectará el release `v1.0.0`, generará un snapshot del código y le asignará un **DOI oficial** (ej. `10.5281/zenodo.14XXXXXX`).
 3. Zenodo te entregará un *badge* oficial en formato Markdown para incrustar en el `README.md`:
    ```markdown
@@ -67,5 +67,5 @@ En el sistema SIGEVA, registrar bajo el rubro **Desarrollo Tecnológico y Social
 * **Año:** 2026
 * **Institución Responsable:** LEMyP, FaCENA - Universidad Nacional del Nordeste (UNNE).
 * **Marco:** Proyecto Acreditado SeGCyT PI 21F012.
-* **URL / Repositorio:** [https://github.com/iasaludlemyp/gnn-pharmacology-v1-becaria](https://github.com/iasaludlemyp/gnn-pharmacology-v1-becaria)
+* **URL / Repositorio:** [https://github.com/iasaludlemyp/gnn_pharmacology_facena_suite_v1](https://github.com/iasaludlemyp/gnn_pharmacology_facena_suite_v1)
 * **Identificador Persistente:** DOI de Zenodo emitido tras la publicación.

@@ -34,7 +34,7 @@
   "related_identifiers": [
     {
       "relation": "isSupplementTo",
-      "identifier": "https://github.com/iasaludlemyp/gnn-pharmacology-v1-becaria",
+      "identifier": "https://github.com/iasaludlemyp/gnn_pharmacology_facena_suite_v1",
       "scheme": "url"
     }
   ]

@@ -4,7 +4,7 @@ title: "GNN Natural Products Pharmacology Suite (FaCENA - UNNE) - v1.0 Proof of 
 abstract: "Prueba de concepto inicial y entorno formativo de farmacología de redes basada en Graph Autoencoders (GAE), embeddings de proteínas ESM-2 y evaluación de sinergias de productos naturales sobre una red canónica de señalización (Proyecto PI 21F012, SeGCyT-UNNE)."
 version: 1.0.0
 date-released: 2026-10-29
-repository-code: "https://github.com/iasaludlemyp/gnn-pharmacology-v1-becaria"
+repository-code: "https://github.com/iasaludlemyp/gnn_pharmacology_facena_suite_v1"
 license: MIT
 authors:
   - family-names: "Pérez"

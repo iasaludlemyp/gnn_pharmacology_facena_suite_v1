@@ -65,8 +65,8 @@ flowchart TD
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/iasaludlemyp/gnn-pharmacology-v1-becaria.git
-cd gnn-pharmacology-v1-becaria
+git clone https://github.com/iasaludlemyp/gnn_pharmacology_facena_suite_v1.git
+cd gnn_pharmacology_facena_suite_v1
 
 # 2. Instalar dependencias
 pip install -r requirements.txt
