@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Si utiliza este software, los modelos GNN o los cuadernos metodológicos, por favor cite este repositorio conforme a los siguientes metadatos."
+title: "GNN Natural Products Pharmacology Suite (FaCENA - UNNE)"
+abstract: "Suite de farmacología de redes, grafos neuronales (GAE), embeddings de proteínas ESM-2 y cribado virtual de sinergias de productos naturales y fitofármacos regionales (Proyecto PI 21F012, SeGCyT-UNNE)."
+version: 1.0.0
+date-released: 2026-10-29
+repository-code: "https://github.com/iasaludlemyp/gnn-pharmacology-v1-becaria"
+license: MIT
+authors:
+  - family-names: "Pérez"
+    given-names: "Rafael Ernesto"
+    affiliation: "Laboratorio de Estructura Molecular y Propiedades (LEMyP), FaCENA - Universidad Nacional del Nordeste (UNNE) / CONICET"
+  - family-names: "Angelina"
+    given-names: "Emilio Luis"
+    affiliation: "LEMyP, FaCENA - Universidad Nacional del Nordeste (UNNE) / IQUIBA-NEA (UNNE - CONICET)"
+  - family-names: "Espinoza"
+    given-names: "Anahí Ayelén"
+    affiliation: "Facultad de Ciencias Exactas y Naturales y Agrimensura (FaCENA), Universidad Nacional del Nordeste (UNNE)"
+keywords:
+  - "graph neural networks"
+  - "network pharmacology"
+  - "natural products"
+  - "bioinformatics"
+  - "esm-2"
+  - "unne"
+  - "facena"

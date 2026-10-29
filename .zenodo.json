@@ -1,0 +1,45 @@
+{
+  "title": "GNN Natural Products Pharmacology Suite: Redes Neuronales de Grafos y Modelado Molecular en Etnomedicina (FaCENA - UNNE)",
+  "description": "<p>Suite computacional en Python y cuadernos interactivos en Google Colab para la modelización farmacológica de sistemas, integración de interactomas proteómicos (STRING v12.0), extracción de representaciones estructurales con ESM-2 (Meta AI, 640d) y predicción de sinergias multitarget de productos naturales (Curcumina, Resveratrol, Quercetina, EGCG, Berberina) mediante Graph Autoencoders (GAE).</p><p>Desarrollado en el marco del Proyecto de Investigación Acreditado PI 21F012 (SeGCyT-UNNE): <em>'Integración de la Bioinformática y el Modelado Molecular para entender el mecanismo de acción de plantas etnomedicinales'</em> en el Laboratorio de Estructura Molecular y Propiedades (LEMyP), Facultad de Ciencias Exactas y Naturales y Agrimensura (FaCENA), Universidad Nacional del Nordeste (UNNE), Corrientes, Argentina.</p>",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "publication_date": "2026-10-29",
+  "creators": [
+    {
+      "name": "Pérez, Rafael Ernesto",
+      "affiliation": "Laboratorio de Estructura Molecular y Propiedades (LEMyP), FaCENA - Universidad Nacional del Nordeste (UNNE) / CONICET",
+      "orcid": "0000-0000-0000-0000"
+    },
+    {
+      "name": "Angelina, Emilio Luis",
+      "affiliation": "Laboratorio de Estructura Molecular y Propiedades (LEMyP), FaCENA - Universidad Nacional del Nordeste (UNNE) / IQUIBA-NEA (UNNE - CONICET)"
+    },
+    {
+      "name": "Espinoza, Anahí Ayelén",
+      "affiliation": "Facultad de Ciencias Exactas y Naturales y Agrimensura (FaCENA), Universidad Nacional del Nordeste (UNNE)"
+    }
+  ],
+  "keywords": [
+    "Graph Neural Networks",
+    "GNN",
+    "Graph Autoencoder",
+    "ESM-2",
+    "Protein-Protein Interaction Networks",
+    "Network Pharmacology",
+    "Natural Products",
+    "Phytochemicals",
+    "CMap L1000",
+    "Ethnomedicine",
+    "FaCENA UNNE",
+    "Synergy Prediction"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/iasaludlemyp/gnn-pharmacology-v1-becaria",
+      "scheme": "url"
+    }
+  ]
+}
