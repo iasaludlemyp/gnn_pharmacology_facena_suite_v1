@@ -1,6 +1,6 @@
 {
-  "title": "GNN Natural Products Pharmacology Suite: Redes Neuronales de Grafos y Modelado Molecular en Etnomedicina (FaCENA - UNNE)",
-  "description": "<p>Suite computacional en Python y cuadernos interactivos en Google Colab para la modelización farmacológica de sistemas, integración de interactomas proteómicos (STRING v12.0), extracción de representaciones estructurales con ESM-2 (Meta AI, 640d) y predicción de sinergias multitarget de productos naturales (Curcumina, Resveratrol, Quercetina, EGCG, Berberina) mediante Graph Autoencoders (GAE).</p><p>Desarrollado en el marco del Proyecto de Investigación Acreditado PI 21F012 (SeGCyT-UNNE): <em>'Integración de la Bioinformática y el Modelado Molecular para entender el mecanismo de acción de plantas etnomedicinales'</em> en el Laboratorio de Estructura Molecular y Propiedades (LEMyP), Facultad de Ciencias Exactas y Naturales y Agrimensura (FaCENA), Universidad Nacional del Nordeste (UNNE), Corrientes, Argentina.</p>",
+  "title": "GNN Natural Products Pharmacology Suite: Redes Neuronales de Grafos y Modelado Molecular en Etnomedicina (FaCENA - UNNE) - v1.0",
+  "description": "<p>Versión 1.0 y prueba de concepto inicial (PoC) de la suite de farmacología de redes basada en Graph Autoencoders (GAE) desarrollada en el marco del Proyecto Acreditado PI 21F012 (SeGCyT-UNNE): <em>'Integración de la Bioinformática y el Modelado Molecular para entender el mecanismo de acción de plantas etnomedicinales'</em>.</p><p>Esta entrega inicial proporciona un entorno formativo y reproducible con un conjunto acotado y canónico de proteínas de señalización clave (como BRAF, RAF1, MAP2K1, MAPK1, TP53, MDM2) y datos estructurados de contingencia (offline-ready) para el aprendizaje determinista de la becaria de investigación. Incluye extracción de embeddings ESM-2, modulación de grafos por firmas transcriptómicas de prueba, proyección latente con GAE y cálculo combinatorio de sinergias como ejemplo metodológico.</p><p><strong>Trabajo futuro:</strong> El escalado del pipeline hacia vías metabólicas integrales y módulos de señalización celular de patologías complejas específicas se encuentra en desarrollo activo para versiones posteriores del proyecto.</p>",
   "upload_type": "software",
   "access_right": "open",
   "license": "MIT",
@@ -9,8 +9,7 @@
   "creators": [
     {
       "name": "Pérez, Rafael Ernesto",
-      "affiliation": "Laboratorio de Estructura Molecular y Propiedades (LEMyP), FaCENA - Universidad Nacional del Nordeste (UNNE) / CONICET",
-      "orcid": "0000-0000-0000-0000"
+      "affiliation": "Laboratorio de Estructura Molecular y Propiedades (LEMyP), FaCENA - Universidad Nacional del Nordeste (UNNE) / CONICET"
     },
     {
       "name": "Angelina, Emilio Luis",
@@ -26,14 +25,11 @@
     "GNN",
     "Graph Autoencoder",
     "ESM-2",
-    "Protein-Protein Interaction Networks",
     "Network Pharmacology",
     "Natural Products",
-    "Phytochemicals",
-    "CMap L1000",
     "Ethnomedicine",
     "FaCENA UNNE",
-    "Synergy Prediction"
+    "Proof of Concept"
   ],
   "related_identifiers": [
     {
