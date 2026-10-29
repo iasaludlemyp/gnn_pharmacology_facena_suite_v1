@@ -1,0 +1,13 @@
+gene_a,gene_b,score,evidence
+BRAF,MAP2K1,980,physical
+BRAF,RAF1,950,physical
+MAP2K1,MAPK1,990,physical
+TP53,MDM2,880,physical
+ESR1,CCND1,850,physical
+CCND1,CDK4,970,physical
+CDK4,RB1,960,physical
+EGFR,GRB2,990,physical
+GRB2,SOS1,980,physical
+PIK3CA,AKT1,940,physical
+AKT1,MTOR,920,physical
+STAT3,JAK2,910,physical
