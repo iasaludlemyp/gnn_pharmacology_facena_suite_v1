@@ -49,7 +49,7 @@ Si prefieres no vincular la cuenta de GitHub o requieres el DOI de forma inmedia
 4. **Título:**  
    `GNN Natural Products Pharmacology Suite: Redes Neuronales de Grafos y Modelado Molecular en Etnomedicina (FaCENA - UNNE)`
 5. **Autores:**
-   * **Pérez, Rafael Ernesto** (LEMyP, FaCENA - UNNE / CONICET)
+   * **Perez, Ernesto Rafael** (LEMyP, FaCENA - UNNE / CONICET)
    * **Angelina, Emilio Luis** (LEMyP, FaCENA - UNNE / IQUIBA-NEA)
    * **Espinoza, Anahí Ayelén** (FaCENA - UNNE)
 6. **Descripción:** Copiar la descripción incluida en el archivo `.zenodo.json`.
@@ -63,7 +63,7 @@ Si prefieres no vincular la cuenta de GitHub o requieres el DOI de forma inmedia
 En el sistema SIGEVA, registrar bajo el rubro **Desarrollo Tecnológico y Social $\to$ Producción de Software**:
 
 * **Título del Software:** GNN Natural Products Pharmacology Suite (FaCENA - UNNE) v1.0
-* **Autores:** Pérez, Rafael E.; Angelina, Emilio L.; Espinoza, Anahí A.
+* **Autores:** Perez, Ernesto Rafael; Angelina, Emilio L.; Espinoza, Anahí A.
 * **Año:** 2026
 * **Institución Responsable:** LEMyP, FaCENA - Universidad Nacional del Nordeste (UNNE).
 * **Marco:** Proyecto Acreditado SeGCyT PI 21F012.

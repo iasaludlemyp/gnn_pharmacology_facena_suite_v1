@@ -10,7 +10,7 @@
 > **Código de Proyecto:** PI 21F012 (SeGCyT-UNNE)  
 > **Lugar de Trabajo:** Laboratorio de Estructura Molecular y Propiedades (LEMyP), Facultad de Ciencias Exactas y Naturales y Agrimensura (FaCENA) — Universidad Nacional del Nordeste (UNNE), Corrientes, Argentina.  
 > **Directores:** Dr. Emilio Luis Angelina & Dirección de Beca FaCENA UNNE  
-> **Investigador / Desarrollo:** Rafael "Rafa" Pérez  
+> **Investigador / Desarrollo:** Ernesto Rafael Perez  
 > **Becaria de Investigación:** Anahí Ayelén Espinoza (Profesorado en Matemática)  
 
 ---

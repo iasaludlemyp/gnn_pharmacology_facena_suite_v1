@@ -7,8 +7,8 @@ date-released: 2026-10-29
 repository-code: "https://github.com/iasaludlemyp/gnn_pharmacology_facena_suite_v1"
 license: MIT
 authors:
-  - family-names: "Pérez"
-    given-names: "Rafael Ernesto"
+  - family-names: "Perez"
+    given-names: "Ernesto Rafael"
     affiliation: "LEMyP, FaCENA - Universidad Nacional del Nordeste (UNNE) / CONICET"
   - family-names: "Angelina"
     given-names: "Emilio Luis"
